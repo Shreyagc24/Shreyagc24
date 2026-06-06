@@ -55,8 +55,8 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🌿 [AgriRakshak](link) | Crop disease prediction — CNN + ViT. **Published Research (2025)** | Python, TensorFlow, Keras |
-| ✅ [To-Do App](link) | Full-stack task manager — deployed on Render | Flask, HTML, CSS, JS |
+| 🌿 [AgriRakshak](https://github.com/Shreyagc24/AgriRakshak) | Crop disease prediction — CNN + ViT. **Published Research (2025)** | Python, TensorFlow, Keras |
+| ✅ [To-Do App](https://github.com/Shreyagc24/todo-flask-app) | Full-stack task manager — deployed on Render | Flask, HTML, CSS, JS |
 
 ---
 
