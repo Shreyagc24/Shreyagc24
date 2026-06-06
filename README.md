@@ -17,7 +17,7 @@
 
 - 🎓 B.Tech Computer Science (H) @ AKGEC Ghaziabad 
 - 🌱 Currently exploring: **Full Stack Development + ML deployment**
-- 🔬 **Internationally Published Researcher** — AgriRakshak-Crop Disease Prediction Model using Deep Learning (2025)
+- - 🔬 **IEEE Published Researcher** — AgriRakshak, ICICAT 2025 | [DOI: 10.1109/ICICAT68430.2025.11414544](https://doi.org/10.1109/ICICAT68430.2025.11414544)
 - 📊 Certified in Data Analytics: **Deloitte (Forage) + IBM SkillsBuild**
 - 💼 Web Developer Intern @ **CodSoft** (React.js, HTML/CSS/JS)
 - 🏆 IEEE AKGEC 2024 Poster Presenter | IIT Bombay E-Cell Bootcamp Alumni
@@ -57,6 +57,13 @@
 |--------|-------------|------|
 | 🌿 [AgriRakshak](https://github.com/Shreyagc24/AgriRakshak) | Crop disease prediction — CNN + ViT. **Published Research (2025)** | Python, TensorFlow, Keras |
 | ✅ [To-Do App](https://github.com/Shreyagc24/todo-flask-app) | Full-stack task manager — deployed on Render | Flask, HTML, CSS, JS |
+
+---
+### 📄 Research Publication
+
+| Paper | Conference | DOI |
+|-------|-----------|-----|
+| 🔬 AgriRakshak: Crop Disease Prediction using Deep Learning | 2025 3rd International Conference on IoT Communication and Automation Technology (ICICAT) | [10.1109/ICICAT68430.2025.11414544](https://doi.org/10.1109/ICICAT68430.2025.11414544) |
 
 ---
 
