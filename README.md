@@ -68,13 +68,3 @@
 - 🟣 **Infosys Springboard** — Python Programming-04 (May 2025)
 - 🎓 **IIT Bombay E-Cell** — Entrepreneurship Bootcamp (Dec 2024)
 
----
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreyagc24&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyagc24&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=1800" height="150"/>
-</p>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyagc24&layout=compact&theme=tokyonight&langs_count=6" height="150"/>
-</p>
