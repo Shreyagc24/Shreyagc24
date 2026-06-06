@@ -17,7 +17,7 @@
 
 - 🎓 B.Tech Computer Science (H) @ AKGEC Ghaziabad 
 - 🌱 Currently exploring: **Full Stack Development + ML deployment**
-- - 🔬 **IEEE Published Researcher** — AgriRakshak, ICICAT 2025 | [Link](https://doi.org/10.1109/ICICAT68430.2025.11414544)
+- 🔬 **IEEE Published Researcher** — AgriRakshak, ICICAT 2025 [Link](https://doi.org/10.1109/ICICAT68430.2025.11414544)
 - 📊 Certified in Data Analytics: **Deloitte (Forage) + IBM SkillsBuild**
 - 💼 Web Developer Intern @ **CodSoft** (React.js, HTML/CSS/JS)
 - 🏆 IEEE AKGEC 2024 Poster Presenter | IIT Bombay E-Cell Bootcamp Alumni
@@ -63,7 +63,7 @@
 
 | Paper | Conference | DOI |
 |-------|-----------|-----|
-| 🔬 AgriRakshak: Crop Disease Prediction using Deep Learning | 2025 3rd International Conference on IoT Communication and Automation Technology (ICICAT) | [10.1109/ICICAT68430.2025.11414544](https://doi.org/10.1109/ICICAT68430.2025.11414544) |
+| 🔬 AgriRakshak: Crop Disease Prediction using Deep Learning | 2025 3rd International Conference on IoT Communication and Automation Technology (ICICAT) | [Publication](https://doi.org/10.1109/ICICAT68430.2025.11414544) |
 
 ---
 
